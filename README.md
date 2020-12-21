@@ -18,7 +18,11 @@ these are the options to turn those rules to a computer program:
 - Architectural Techniques Like: behaviour Tree, Utility Teory
 
 "Sun Tzu" has defined the most basic rules of war. These are The Rules:
--
+-Avoid What Is Strong And Strike At What Is Weak.
+-Supreme Excellence Consists In Breaking The Enemy's Resistance Whithout Fighting. The Key Is To Know Your Enemy Well.(If The Enemy Is Arrogant, Pretend to be Weak; So He Will Undestimate You. If He's Relaxing, Attack. If They Are United, Seperate Them.)
+- If You The Enemy and Know Yourself, You Need Not to Fear The Result Of Hundred Battles.
+- All Warfare Is Based On Deception. Hence, When We Are Able To Attack, We Must Seem Unablle; When Using Our Forces, We Must Appear Inactive; When We Are Near, We Must Make The Enemy Believe We Are Far Away; When Far Away, We Must make Him Believe We Are Near.
+
 
 
 ------------------------------------------------------------------------------------------------------
