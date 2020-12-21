@@ -28,6 +28,23 @@ these are the options to turn those rules to a computer program:
 
 ------------------------------------------------------------------------------------------------------
 Behaviour:</br>
+As AI Designer Or Programmer, We Need To Structure The Code For Behaviour Of Character, Actor, Agent...
+For Realism, Every Character Should Have a Sensory System And a Database. 
+A Database Is All Knowledge of Character from Environment And Other Stuff Including:</br>
+  - being in a team or not.
+  - at offence or defence.
+  - health
+  - capablities and freedom
+  - state(in action, patrol, idle,...)
+  - number of enemies and number of team-mates
+  - ...
+  
+  Sensory System Including Eyesight, Sound or Some Scripted or Hardcoded Stuff Update this Senory System. Some Times Sensory System Is More General And is Shared In All Groups All Player Enemies or in a Squad. The Data Is Fed To Structured Code To Performe any Wanted Behaviour. 
+- State Machine: limited but suitable for a simple agents. there are extensions like HSFM to reduces limitations.
+- GOAP: a series os action/result to achieve a  final goal
+- Behavioural Tree:  a tree that leafs are actions and the algorithm searchs in the tree base of feedback from result of leaves
+- Utility Teory: most generic way to make a behaviour for the character based on value of a certain action in a defined condition.
+
 
 
 ------------------------------------------------------------------------------------------------------
