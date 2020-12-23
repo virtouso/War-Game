@@ -50,7 +50,7 @@ At this section we define some rules for behaviour of enemy soldiers when are in
 - select your position based on your weapon and and enemy's weapon.
 - only go for melee if you are near to enemy and not in his sight.
 - use suppressing ffire when not in cover.
-
+- should'nt apear between enemy and friendly line of fire.
 ------------------------------------------------------------------------------------------------------
 Behaviour:</br>
 As AI Designer Or Programmer, We Need To Structure The Code For Behaviour Of Character, Actor, Agent...
